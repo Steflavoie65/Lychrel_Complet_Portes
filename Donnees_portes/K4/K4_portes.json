@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "dimension": 4,
+    "formule": "(A+D, B+C)",
+    "nombre_portes": 11,
+    "nombre_lychrel": 233,
+    "date_generation": "2025-10-10T07:28:36.655076",
+    "description": "Portes Lychrel pour k=4 (nombres à 4 chiffres)"
+  },
+  "portes": [
+    [
+      6,
+      13
+    ],
+    [
+      8,
+      13
+    ],
+    [
+      8,
+      18
+    ],
+    [
+      13,
+      7
+    ],
+    [
+      13,
+      16
+    ],
+    [
+      16,
+      5
+    ],
+    [
+      16,
+      14
+    ],
+    [
+      17,
+      7
+    ],
+    [
+      17,
+      8
+    ],
+    [
+      17,
+      16
+    ],
+    [
+      17,
+      17
+    ]
+  ]
+}

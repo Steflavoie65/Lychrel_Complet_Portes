@@ -1,0 +1,44 @@
+{
+  "dimension_testee": 5,
+  "methode": "exhaustive",
+  "intervalle": [
+    10000,
+    99999
+  ],
+  "nombres_testes": 90000,
+  "nombres_dans_S5": 76,
+  "fermeture_verifiee": true,
+  "violations": 0,
+  "exemples_violations": [],
+  "distribution_k_images": {
+    "5": 68,
+    "6": 8
+  },
+  "duree_secondes": 0.23799395561218262,
+  "timestamp": "2025-10-10T19:55:21.097352",
+  "portes_S5": [
+    [
+      4,
+      11,
+      14,
+      11,
+      4
+    ],
+    [
+      18,
+      7,
+      0,
+      7,
+      18
+    ],
+    [
+      9,
+      3,
+      10,
+      3,
+      9
+    ]
+  ],
+  "nombre_portes_S5": 3,
+  "nombre_portes_S_total": 231
+}

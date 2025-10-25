@@ -1,0 +1,18 @@
+{
+  "dimension": 7,
+  "nombres_testes": 9000000,
+  "candidats_lychrel": 2249054,
+  "intervalle": [
+    1000000,
+    9999999
+  ],
+  "duree_secondes": 21.141003131866455,
+  "vitesse_nombres_par_sec": 425713.0063253259,
+  "fermeture_verifiee": true,
+  "violations_count": 0,
+  "violations": [],
+  "distribution_images": {
+    "4": 2249054
+  },
+  "timestamp": "20251024_085724"
+}

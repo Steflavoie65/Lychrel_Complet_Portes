@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "dimension": 3,
+    "formule": "(A+C, B)",
+    "nombre_portes": 3,
+    "nombre_lychrel": 13,
+    "date_generation": "2025-10-10T07:28:36.644072",
+    "description": "Portes Lychrel pour k=3 (nombres à 3 chiffres)"
+  },
+  "portes": [
+    [7, 9],
+    [15, 8],
+    [17, 7]
+  ]
+}

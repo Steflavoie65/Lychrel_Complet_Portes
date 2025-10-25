@@ -1,0 +1,19 @@
+{
+  "dimension_testee": 3,
+  "methode": "exhaustive",
+  "intervalle": [100, 999],
+  "nombres_testes": 900,
+  "nombres_dans_S3": 0,
+  "fermeture_verifiee": true,
+  "violations": 0,
+  "exemples_violations": [],
+  "distribution_k_images": {},
+  "duree_secondes": 0.001996278762817383,
+  "timestamp": "2025-10-10T19:43:40.541788",
+  "portes_S3": [
+    [15, 16],
+    [7, 18]
+  ],
+  "nombre_portes_S3": 2,
+  "nombre_portes_S_total": 231
+}

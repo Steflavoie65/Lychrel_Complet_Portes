@@ -1,0 +1,35 @@
+{
+  "dimension_testee": 4,
+  "methode": "exhaustive",
+  "intervalle": [
+    1000,
+    9999
+  ],
+  "nombres_testes": 9000,
+  "nombres_dans_S4": 84,
+  "fermeture_verifiee": true,
+  "violations": 0,
+  "exemples_violations": [],
+  "distribution_k_images": {
+    "4": 36,
+    "5": 48
+  },
+  "duree_secondes": 0.024998188018798828,
+  "timestamp": "2025-10-10T19:45:08.397782",
+  "portes_S4": [
+    [
+      6,
+      13,
+      13,
+      6
+    ],
+    [
+      13,
+      7,
+      7,
+      13
+    ]
+  ],
+  "nombre_portes_S4": 2,
+  "nombre_portes_S_total": 231
+}

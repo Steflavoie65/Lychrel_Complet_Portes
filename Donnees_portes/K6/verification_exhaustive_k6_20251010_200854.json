@@ -1,0 +1,32 @@
+{
+  "dimension_testee": 6,
+  "methode": "exhaustive",
+  "intervalle": [
+    100000,
+    999999
+  ],
+  "nombres_testes": 900000,
+  "nombres_dans_S6": 216,
+  "fermeture_verifiee": true,
+  "violations": 0,
+  "exemples_violations": [],
+  "distribution_k_images": {
+    "7": 216
+  },
+  "duree_secondes": 2.2239973545074463,
+  "vitesse_moyenne_nb_sec": 404676.74036389537,
+  "prediction_claude_sec": 2.4,
+  "timestamp": "2025-10-10T20:08:54.777658",
+  "portes_S6": [
+    [
+      9,
+      16,
+      7,
+      7,
+      16,
+      9
+    ]
+  ],
+  "nombre_portes_S6": 1,
+  "nombre_portes_S_total": 231
+}
